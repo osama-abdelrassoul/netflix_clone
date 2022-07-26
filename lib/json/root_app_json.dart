@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_icons/flutter_icons.dart';
+
 
 List items = [
   {"icon": Icons.home, "text": "Home"},
